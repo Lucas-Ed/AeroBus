@@ -53,7 +53,7 @@ O Projeto é uma melhoria de um site de uma empresa real, no caso a AeroBus Ar C
 
 ## Deploy do projeto
 
-<!---Confira [aqui.](https://projeto_aqui.com.br)----->
+Confira [aqui.](https://aerobus.netlify.app)
 ---
 ## :memo: Licença
 

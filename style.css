@@ -30,7 +30,20 @@
   max-width: 500px;
   height: auto;
 }
-.logo {margin-right: 450px;}
+.logo {
+  margin-right: 200px;
+}
+/*---itens da nav com os logos ----*/
+html, body {
+  overflow-x: hidden;
+}
+
+.container {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 
 /*----Redes cabeçalho-----*/
 .redes {
@@ -320,3 +333,37 @@
     }
   
   }
+
+  /*Media querie de responsividade 2 header*/
+  /* Estilo responsivo para telas menores que 768px */
+@media (max-width: 300px) {
+  /* Ocultar o header como você já configurou */
+  .header-mobile-hide {
+      display: none;
+  }
+
+  /* Ocultar a imagem logo_01 */
+  .logo {
+      display: none;
+  }
+
+  /* Ajustar a responsividade da imagem do carro (logo_00) */
+  .car {
+      width: 100%; /* Fazer a imagem ocupar 100% da largura do container */
+      height: auto; /* Manter a proporção da altura */
+  }
+}
+
+/* Estilo para telas pequenas, mas não minúsculas (ex: entre 300px e 1024px) */
+@media (min-width: 300px) and (max-width: 1024px) {
+  .car {
+      width: 80%; /* Ajustar um pouco menor em tablets */
+      height: auto; /* Manter a proporção */
+  }
+
+  .logo {
+      display: none; /* Logo_01 ainda fica oculto em tablets */
+  }
+}
+
+
