@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto é uma melhoria de um site de uma empresa real, no caso a AeroBus Ar Condicionado, que já existia, mas estava muito ruim, foi criado um novo layout, o layout foi pensado para a empresa real, mas é apenas um projeto valiativo de página única, as outras páginas foram criadas, mas não foi concluídas.
+O Projeto é uma melhoria de um site de uma empresa real, no caso a AeroBus Ar Condicionado, que já existia, mas estava muito ruim, foi criado um novo layout, o layout foi pensado para a empresa real, mas é apenas um projeto Avaliativo de página única, as outras páginas foram criadas, mas não foi concluídas.
 
 
 

@@ -335,7 +335,7 @@ html, body {
   }
 
   /*Media querie de responsividade 2 header*/
-  /* Estilo responsivo para telas menores que 768px */
+  /* Estilo responsivo para telas menores que 300px */
 @media (max-width: 300px) {
   /* Ocultar o header como você já configurou */
   .header-mobile-hide {
